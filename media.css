@@ -1,0 +1,213 @@
+/* media quarey */
+
+/* 1065-1200*/
+/* 850-1065 */
+/* 769-849 */
+/* 577-768 */
+/* screen-576 */
+
+
+/* 1065-1200*/
+@media (min-width:1065px) and (max-width :1200px){
+   .css{
+       border: 5px solid rgb(224, 51, 8);
+   } 
+   .nav-link{
+       font-size: 20px;
+   }
+   .header-text h1{
+       font-size: 40px !important;
+   }
+   .date-item{
+       width: 33%;
+   }
+   .date-item h4{
+       font-size: 20px;
+   }
+   .text-1 h5{
+       font-size:18px;
+   }
+   .carousel-box h1 {
+       font-size: 30px;
+   }
+   .carousel-box img{
+       height: 180px;
+   }
+   .h1-1{
+       font-size: 35px;
+   }
+
+   .box-2 p{
+       font-size: 18px;
+   }
+   .h1-2{
+       font-size: 33px;
+       margin: 20px 0;
+   }
+   
+   .user-card h3{
+       font-size: 20px;
+   }
+   .user-card img{
+       width: 50px;
+       height: 50px;
+   }
+   
+   .block-header h1{
+       font-size: 35px;
+   }
+   .block-user{
+       width: 90%;
+       margin: 0 auto;
+   }
+   .block-header{
+       width: 90%;
+       margin: 0 auto;
+   }
+   .block-user p{
+       font-size: 13px;
+   }
+   .block-user h3{
+       font-size: 23px;
+       margin-bottom: 10px;
+    }
+    .building-div{
+        margin-top: 9% !important;
+    }
+    .build-text{
+        margin-right: 100px;
+    }
+    .text h2{
+        font-size: 30px;
+    }
+    .building-div img{
+        width: 50%;
+    }
+    .card p{
+        font-size: 14px;
+    }
+    .last-data a{
+        color: rgb(255, 178, 105);
+    }
+    .build-text .text{
+        margin-left: 60%;
+    }
+    .correct{
+        font-size: 15px;
+    }
+
+}
+
+/*850-1065*/
+@media (min-width:850px) and (max-width :1065px){
+    .css{
+        border: 5px solid green ;
+    }
+    .header-text h1{
+        font-size: 30px !important;
+    }
+    .date-item{
+        width: 33%;
+    }
+    .date-item h4{
+        font-size: 18px;
+    }
+    .text-1 h5{
+        font-size:14px;
+    }
+    .carousel-box h1 {
+        font-size: 30px;
+    }
+    .carousel-box img{
+        height: 150px;
+    }
+    .h1-1{
+        font-size: 30px;
+    }
+ 
+    .box-2 p{
+        font-size: 18px;
+    }
+    .h1-2{
+        font-size: 35px;
+        margin: 20px 0;
+    }
+
+    .card-effect{
+        width: 40% !important;
+        text-align: center !important;
+        height: 400px;
+        width: 400px;
+    }
+    .user-card h3{
+        font-size: 20px;
+    }
+    .user-card img{
+        width: 50px;
+        height: 50px;
+    }
+    .block-header h1{
+        font-size: 28px;
+    }
+    .block-user{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .block-user p{
+        font-size: 13px;
+    }
+    .block-user h3{
+        font-size: 20px;
+        margin-bottom: 10px;
+     }
+     .building-div{
+        margin-top: 9% !important;
+    }
+    .build-text{
+        margin-right: 100px;
+    }
+    .text h2{
+        font-size: 25px;
+    }
+    .building-div img{
+        width: 50%;
+    }
+    .card p{
+        font-size: 14px;
+    }
+    .nav a{
+        font-size: 10px;
+    }
+    .last-lorem p{
+        font-size: 17px;
+    }
+    .nav{
+        margin-top: 0px;
+    }
+}
+
+/* 769-849 */
+@media (min-width:769px) and (max-width:849px) {
+
+}
+
+/* 577-768 */
+@media (min-width:577px) and (max-width:768px){
+    .carousel-mobile{
+        display: block;
+    }
+    .carousel-lg{
+        display: none;
+    }
+
+}
+
+/* screen-576 */
+@media screen and (max-width:576px){
+
+}
+
+
+
+
+
